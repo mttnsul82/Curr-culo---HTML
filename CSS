@@ -1,0 +1,35 @@
+body{
+    background-color: #EBEED5;
+    color: #41386B;
+    text-align: justify;
+    font-size: medium;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+footer{
+    background-color: #5E891B;
+    color: #283B0A;
+    font-size: large;
+    text-align: center;
+}
+
+h1{
+    color: #5E891B; 
+    text-align: center; 
+}
+
+.menu{
+    display: flex;
+    justify-content: center;
+    gap:30px;
+    background-color: #BAACEB
+}
+
+h2{
+    text-align: center;
+}
+
+.imagem{
+    display: flex;
+    justify-self: center;
+}
