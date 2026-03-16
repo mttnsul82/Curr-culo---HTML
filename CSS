@@ -14,7 +14,7 @@ footer{
 }
 
 h1{
-    color: #837bb9; 
+    color: #342e57; 
     text-align: center; 
 }
 
@@ -27,9 +27,18 @@ h1{
 
 h2{
     text-align: center;
+    color: #16002E;
 }
 
 .imagem{
     display: flex;
     justify-self: center;
+}
+
+a{
+    color: #342e57;
+}
+
+h3{
+    color: #342e57; 
 }
