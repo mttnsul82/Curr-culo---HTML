@@ -1,9 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Fredoka:wght@400;500;600&family=Poppins:wght@300;400;500;600&display=swap');
+
+
 body{
     background-color: #fdf4e5;
     color: #41386B;
     text-align: justify;
     font-size: medium;
-    font-family: 'Times New Roman', Times, serif;
+    font-family: 'Poppins', sans-serif;
 }
 
 footer{
@@ -12,11 +15,13 @@ footer{
     font-size: large;
     text-align: center;
     border-radius: 10px;
+    font-family: 'Fredoka', sans-serif;
 }
 
 h1{
     color: #342e57; 
     text-align: center; 
+    font-family: 'Fredoka', sans-serif;
 }
 
 .menu{
@@ -25,11 +30,13 @@ h1{
     gap:30px;
     background-color: #BAACEB;
     border-radius:10px;
+    font-family: 'Fredoka', sans-serif;
 }
 
 h2{
     text-align: center;
     color: #16002E;
+    font-family: 'Fredoka', sans-serif;
 }
 
 .imagem{
@@ -49,6 +56,7 @@ h3{
 .Projetos{
     display: flex;
     justify-content: center;
+    font-family: 'Fredoka', sans-serif;
 }
 
 p{
